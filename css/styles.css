@@ -1,0 +1,24 @@
+
+.slider {
+  max-width: 400px;
+  margin: 50px auto;
+}
+
+.slider__input {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.slider__image {
+  display: block;
+  margin: 70px auto;
+  max-width: 100%;
+  height: auto;
+  transition: transform 0.3s ease-in-out; 
+}
+.box {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  position: absolute;
+}
